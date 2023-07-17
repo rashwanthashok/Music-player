@@ -16,7 +16,7 @@ Rashwanth - Music Player
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Music-Player/
+    https://rashwanthashok.github.io/Music-player/
     
 ## Getting Started
 
