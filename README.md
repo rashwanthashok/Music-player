@@ -48,6 +48,10 @@ Feel free to customize the code further to enhance the music player's functional
 4. Song Credits: View detailed information about the song, including artist and writer credits.
 
 5. Replay Option: Start over the current song with a dedicated replay button.
+
+## Deployment status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/878a18e9-630c-48ad-863f-0557d97c05de/deploy-status)](https://app.netlify.com/sites/jsprojects10-music-player/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
